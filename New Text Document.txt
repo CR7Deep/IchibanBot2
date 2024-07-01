@@ -1,0 +1,22 @@
+c# -> JIT compiler => IL or MSIL(.dll.exe) -> CLR => native binary code(1001 -> os  mangaed code ->
+
+unmanged code - Os 
+
+create the web application in .net core 
+2. add the files 
+3. try to run the application
+
+
+create the mvc application using .net core 
+add controllers
+add model and try to run application using action method
+
+
+main method
+createbuilder method-> webapplication builder consist -> setup web server
+host the app
+logging
+configuration
+dependancy injection calling
+
+also main metho
